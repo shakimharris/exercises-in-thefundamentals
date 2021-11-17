@@ -1,2 +1,2 @@
-# exercises-in-thefundamentals
+# javascript-algorithms
 Created with CodeSandbox
